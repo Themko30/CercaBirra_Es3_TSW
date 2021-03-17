@@ -5,10 +5,11 @@
 <head>
     <title>Beer Recommendations</title>
 </head>
-<body style="background-color: teal">
+<body>
 <h1>
     Recommendations:
 </h1>
+<br>
 <%
     List styles = (List) request.getAttribute("styles");
     Iterator it = styles.iterator();
