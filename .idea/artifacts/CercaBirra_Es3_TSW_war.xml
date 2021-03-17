@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CercaBirra_Es3_TSW:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>CercaBirra_Es3_TSW</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CercaBirra_Es3_TSW-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CercaBirra_Es3_TSW:war exploded" />
+    </root>
+  </artifact>
+</component>
